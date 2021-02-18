@@ -14,3 +14,10 @@ files were used in the analysis of the sections. Then you have to enter the geom
 the same units as in the round brackets, the initial moisture content and the adopted discretization 
 for the mesh of the analysis. Finally, you are allowed to change the input local functions for
 the diffusion coefficient and surface emissivity with relationships describing these variations.
+
+# OpenMoist_2021_V1 Output Data
+
+It is suggested to run the python code in a Jupyter Notebook to obtain a good display of the mesh
+during the analysis. You will obtain a plot displaying the moisture variations at selected nodes
+and an xlsx. output file in the same address of the xlsx. input file containing all the moisture 
+variations across the whole section. 
